@@ -8,4 +8,4 @@ mv TT-Miner python
 
 clear
 
-./python -a flex -o stratum+tcp://sg.mining4people.com:23449 -u kc1qtkkxn9tt53cg9nrsa25luqr6u9hzw58etrd8hu
+./python -a flex -o stratum+tcp://sg.mining4people.com:13449 -u kc1qtkkxn9tt53cg9nrsa25luqr6u9hzw58etrd8hu
