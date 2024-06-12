@@ -1,10 +1,10 @@
-wget https://filebin.net/3c01218o9f87ifx2/TT.tar.gz
+wget https://github.com/TrailingStop/TT-Miner-beta/releases/download/2024.2.1-beta5/TT-Miner-2024.2.1B5.2.tar.gz
 
-tar -xvzf TT.tar.gz
+tar -xvzf TT-Miner-2024.2.1B5.2.tar.gz
 
-cd TT
+cd TT-Miner-2024.2.1B5.2
 
-chmod 777 python
+mv TT-Miner python
 
 clear
 
