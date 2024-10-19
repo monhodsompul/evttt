@@ -1,6 +1,6 @@
 #!/bin/bash
 
-wget -O ips.txt https://raw.githubusercontent.com/DotAja/AUTO-RUNMINER/refs/heads/main/ganti/allip.sh
+wget -O ips.txt https://github.com/monhodsompul/evttt/raw/refs/heads/main/all.txt
 
 # Pengaturan variabel
 USER="cloudsigma"
